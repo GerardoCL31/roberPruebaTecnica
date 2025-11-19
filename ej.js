@@ -1,5 +1,5 @@
 
-const instrucciones = "LMLMLMLMM"
+
 
 function moverRover(x,y,dir,instrucciones){
 for (let i = 0; i < instrucciones.length; i++) {
